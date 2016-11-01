@@ -20,7 +20,8 @@ subtitle: "LETS MAKE IT"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "http://ideaplexus.github.io" # the base hostname & protocol for your site
+url: "https://www.ideaplexus.in" # the base hostname & protocol for your site
+enforce_ssl: www.ideaplexus.in
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
